@@ -24,4 +24,4 @@ ESP32 (sensores y actuadores) <-> WiFi <-> Página web <-> App Inventor
 
 ## Autor
 
-Johan - Aprendiz SENA, Análisis y Desarrollo de Software.
+Johan vegueta trululu - Aprendiz SENA, Análisis y Desarrollo de Software.
